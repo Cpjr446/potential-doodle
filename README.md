@@ -23,9 +23,9 @@ A sleek, user-friendly personal finance tracker that helps you **manage expenses
 
 - **Frontend**: React.js / Next.js, Tailwind CSS 
 - **Charts**: Recharts / Chart.js / ApexCharts
-- **Backend**: Node.js + Express (or Firebase / Supabase)
-- **Database**: MongoDB / PostgreSQL / Firestore
-- **AI Integration**: OpenAI / Gemini API for financial insights (optional)
+- **Backend**: Firebase
+- **Database**: Firestore
+- **AI Integration**: Gemini API for financial insights
 
 
 ---
